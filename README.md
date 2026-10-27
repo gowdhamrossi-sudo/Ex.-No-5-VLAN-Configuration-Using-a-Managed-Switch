@@ -60,10 +60,61 @@ Switch(config-if-range)# switchport access vlan 20<br>
 Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
-•	VLAN configuration on switch<br>
-•	PC IP settings<br>
-•	Successful ping between PCs in the same VLAN<br>
-•	Failed ping between PCs in different VLANs<br>
+CONFIGURATION
+PC1
+
+
+
+PC2
+
+
+
+
+
+PC3
+
+
+
+
+PC4
+
+
+
+
+SWITCH
+
+
+
+
+# PING
+
+
+PC1
+
+
+
+
+
+
+PC2
+
+
+
+
+
+PC3
+
+
+
+
+
+PC4
+
+
+
+
+
+
 ________________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
