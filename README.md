@@ -16,6 +16,9 @@ Description:<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
 •	All PCs are connected to different ports on the same switch.<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f928c332-024e-4d2f-afae-72e20f5f5e67" />
+
 ________________________________________
 # IP Addressing Table
 Device	VLAN	IP Address	Subnet Mask	Port<br>
@@ -60,13 +63,15 @@ Switch(config-if-range)# switchport access vlan 20<br>
 Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
-CONFIGURATION
+# CONFIGURATION :
 PC1
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/847e1ea0-23af-47e3-8ba4-3b9660797d9a" />
 
 
 
 PC2
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e1e850c-3df1-4400-943c-0f562253616f" />
 
 
 
@@ -74,15 +79,18 @@ PC2
 PC3
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/430fec06-1c38-4bdd-b307-33b2482c697b" />
 
 
 PC4
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c40e9ec4-e6c8-43c7-9feb-a36f7a444f42" />
 
 
 
 SWITCH
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/75b0cd91-60d2-4d0e-9bc0-9f598affc8e3" />
 
 
 
@@ -92,6 +100,7 @@ SWITCH
 PC1
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/aacc55be-a56e-4b29-bb65-d2828e139fdf" />
 
 
 
@@ -99,11 +108,13 @@ PC1
 PC2
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d3f56e7-f577-4a3d-b8ab-e02c25e25c44" />
 
 
 
 PC3
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4d2714b5-2328-4da9-98c8-732e27449d22" />
 
 
 
@@ -112,6 +123,7 @@ PC4
 
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/36d92590-e98f-48c9-bef1-01e0a898d066" />
 
 
 
